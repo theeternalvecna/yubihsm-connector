@@ -1,3 +1,5 @@
+[![Release binaries](https://github.com/theeternalvecna/yubihsm-connector/actions/workflows/release.yml/badge.svg?branch=master&event=status)](https://github.com/theeternalvecna/yubihsm-connector/actions/workflows/release.yml)
+
 name: Release binaries
 # This machine tests building the software on a both 32 and 64 Windows architecture.
 
